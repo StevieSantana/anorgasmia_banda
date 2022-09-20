@@ -1,0 +1,24 @@
+.text-01-musica {
+    display: grid;
+    grid-row: span 1;
+    justify-items: center;
+    align-items: center;
+    text-decoration: none;
+    text-decoration-line: none;
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 3em;
+}
+.img-00-musica {
+    grid-row: 3 / 2;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}
+.img-01-musica
+ {  grid-row: 3 / 2;
+    display: grid;
+    justify-content: center;
+    align-items: flex-end;
+}
+

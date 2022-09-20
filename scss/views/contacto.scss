@@ -1,0 +1,28 @@
+section.box_left_contact {
+    display: grid;
+    justify-content: space-between;
+
+}
+div.form {
+    font-family: 'Sue Ellen Francisco', cursive;
+    display: grid;
+    grid-column: 1 / 2;
+    grid-row: auto;
+ 
+
+}
+.contacto-img00 {
+    grid-column: 2 / 3;
+    justify-content: space-between;
+
+    -webkit-animation: rotate-scale-down 0.65s linear both;
+                animation: rotate-scale-down 0.65s linear both;
+    
+}
+
+
+.contacto-img01
+    {
+        -webkit-animation: rotate-scale-down 0.65s linear both;
+                animation: rotate-scale-down 0.65s linear both;
+    }

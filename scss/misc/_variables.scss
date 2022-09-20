@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Buenard&family=Sue+Ellen+Francisco&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+@keyframes rotate-scale-down{0%{transform:scale(1) rotateZ(0)}50%{transform:scale(.5) rotateZ(180deg)}100%{transform:scale(1) rotateZ(360deg)}}
+
+/* VARIABLES */
+:root {
+    /* Pallete */
+    $primary: #090909;
+    $secondary: #FFFFFF;
+    /* Font_family */
+    $text-caps:font-family 'Sue Ellen Francisco', cursive;
+    $text-alt:font-family 'Buenard', serif;
+    /* Font_size*/
+
+    /* Spacing */
+    $spacing_lg: 100px;
+    $spacing_md: 40px;
+    $spacing_s: 10px;
+    $spacing_betweencolums: 16px;
+    }

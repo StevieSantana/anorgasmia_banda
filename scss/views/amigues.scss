@@ -1,0 +1,26 @@
+.box_left_amigues {
+    width: 54rem;
+    height: 60rem; 
+    display: grid; 
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    row-gap: 0.5rem;
+    column-gap: 0.5rem;
+    align-items: center;
+}
+
+
+.box_right_amigues {
+    width: 54rem;
+    height: 60rem; 
+    display: grid; 
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    row-gap: 0.5rem;
+    column-gap: 0.5rem;
+    align-items: center;
+}
